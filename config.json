@@ -1,9 +1,4 @@
 {
   "launcherBase": "https://launcher.stateofbattle.id/RedemptionLauncher2025",
-  "newsUrl": "https://launcher.stateofbattle.id/RedemptionLauncher2025/launcher-home.php",
-  "launcher": {
-    "version": 1,
-    "exe": "RedemptionLauncher.exe",
-    "url": "https://launcher.stateofbattle.id/RedemptionLauncher2025/RedemptionLauncher.exe"
-  }
+  "newsUrl": "https://launcher.stateofbattle.id/RedemptionLauncher2025/launcher-home.php"
 }
